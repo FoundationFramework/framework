@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[920],{4911:t=>{t.exports=JSON.parse('{"title":"Tutorial","description":"5 minutes to learn the most important Docusaurus concepts.","slug":"/category/tutorial","permalink":"/docs/category/tutorial","navigation":{"next":{"title":"Get Started","permalink":"/docs/tutorial/get-started"}}}')}}]);
